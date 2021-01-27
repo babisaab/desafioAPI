@@ -1,1 +1,2 @@
 require 'HTTParty'
+require 'json'
