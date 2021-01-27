@@ -11,9 +11,9 @@ O desafio consiste em automatizar três cenários para a API GO Rest: https://go
 
 Validações realizadas: 
 
-                       - Status Code: 200					   
-					   - Mensagem do Status Code: OK					   
-					   - Validar se o responseBody contém os dados de acordo com cada contexto. 
+- Status Code: 200
+- Mensagem do Status Code: OK  
+- Validar se o responseBody contém os dados de acordo com cada contexto.
 
 A automação em Ruby + HTTParty + Cucumber está incompleta em relação as validações e padrão Page Objects.  
 No postman todas as validações foram realizadas em uma collection, Go Rest - Desafio.
