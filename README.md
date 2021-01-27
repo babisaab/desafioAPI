@@ -10,6 +10,7 @@ O desafio consiste em automatizar três cenários para a API GO Rest: https://go
  
 
 Validações realizadas: 
+
                        - Status Code: 200					   
 					   - Mensagem do Status Code: OK					   
 					   - Validar se o responseBody contém os dados de acordo com cada contexto. 
